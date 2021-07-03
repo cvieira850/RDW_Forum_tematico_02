@@ -1,0 +1,27 @@
+body {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 150px;
+  padding: 0;
+  font-family: monospace;
+  border-width: 5px 70px;
+  text-align: justify;
+  font-size: 15px;
+}
+h3 {
+  margin-left: 200px;
+  text-align: justify;
+}
+h4 {
+  margin-left: 250px;
+  text-align: justify;
+}
+p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+div {
+  margin: 50px;
+}
