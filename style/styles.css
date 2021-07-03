@@ -1,7 +1,5 @@
 body {
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color: #41ead4;
   margin: 150px;
   padding: 0;
   font-family: monospace;
